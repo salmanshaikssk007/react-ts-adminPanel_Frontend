@@ -22,6 +22,7 @@ A modern and scalable Admin Panel built with **React**, **TypeScript**, and **Ma
 - **Icons:** Material Icons, React Icons
 
 ## 📂 Folder Structure
+```bash
 react-ts-adminPanel_Frontend/
 ├── public/
 ├── src/
@@ -35,7 +36,7 @@ react-ts-adminPanel_Frontend/
 │   └── App.tsx
 ├── tsconfig.json
 └── package.json
-
+```
 ## 📦 Getting Started
 
 ### Prerequisites
